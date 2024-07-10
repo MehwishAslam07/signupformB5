@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to right, rgb(102 22 205), rgba(37, 117, 252, 1));
+    align-items: center;
+    justify-content: center;
+}
+.loginwrap{
+border-radius: 10px;
+
+}
+
+.formwrap{
+    margin:0 0 20px 0;
+}
+input#formBasicCheckbox {
+    margin: 5px 20px 0 0;
+}
+.form-check {
+    display: flex !important;
+    justify-content: center;
+}
